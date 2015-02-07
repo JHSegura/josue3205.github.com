@@ -1,15 +1,15 @@
-#### <i class="icon-file"></i> Top 5 Things I learned About a Non-Graphical Editor
+#### Top 5 Things I learned About a Non-Graphical Editor
 
-1.
-2.
-3.
-4.
-5.
+> Not as user friendly
+> Very technical in the sense that you must know the correct keys
+> Simple design
+> Can manipulate text using tags
+> Does not allow for plugins
 
-#### <i class="icon-file"></i> Top 5 Things I Learned About a Graphical Editor
+#### Top 5 Things I Learned About a Graphical Editor
 
-1.
-2.
-3.
-4.
-5.
+> Is as good as the plugins it supports
+> Colors text for you to distinguish classes variables, etc
+> More user friendly
+> Allows for multiple windows to multitask
+> Supports a variety of languages
